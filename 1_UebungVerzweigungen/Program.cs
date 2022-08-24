@@ -10,3 +10,12 @@ Console.WriteLine(x-- == y & true); //Ausgabe false
 Console.WriteLine(!(z == 6) | false); //Ausgabe false
 Console.WriteLine((x *= -2) == z); //Ausgabe true 
 
+
+using System;
+namespace Klassenarbeit
+{
+    class Aufgabe2
+    {
+        static void Main()
+        { 
+    
